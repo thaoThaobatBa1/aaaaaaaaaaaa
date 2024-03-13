@@ -1,0 +1,10 @@
+C:\Users\UBC\Desktop\Các Môn Học\3-Spring 2024\C# 1.2\Nhap1\Form1\Form1\bin\Debug\Form1.exe.config
+C:\Users\UBC\Desktop\Các Môn Học\3-Spring 2024\C# 1.2\Nhap1\Form1\Form1\bin\Debug\Form1.exe
+C:\Users\UBC\Desktop\Các Môn Học\3-Spring 2024\C# 1.2\Nhap1\Form1\Form1\bin\Debug\Form1.pdb
+C:\Users\UBC\Desktop\Các Môn Học\3-Spring 2024\C# 1.2\Nhap1\Form1\Form1\obj\Debug\Form1.csproj.AssemblyReference.cache
+C:\Users\UBC\Desktop\Các Môn Học\3-Spring 2024\C# 1.2\Nhap1\Form1\Form1\obj\Debug\Form1.Form1.resources
+C:\Users\UBC\Desktop\Các Môn Học\3-Spring 2024\C# 1.2\Nhap1\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\UBC\Desktop\Các Môn Học\3-Spring 2024\C# 1.2\Nhap1\Form1\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\UBC\Desktop\Các Môn Học\3-Spring 2024\C# 1.2\Nhap1\Form1\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\UBC\Desktop\Các Môn Học\3-Spring 2024\C# 1.2\Nhap1\Form1\Form1\obj\Debug\Form1.exe
+C:\Users\UBC\Desktop\Các Môn Học\3-Spring 2024\C# 1.2\Nhap1\Form1\Form1\obj\Debug\Form1.pdb

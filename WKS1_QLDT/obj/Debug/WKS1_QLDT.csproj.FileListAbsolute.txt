@@ -1,0 +1,3 @@
+C:\Users\Phat\Desktop\C# Winform\WKS1_QLDT\WKS1_QLDT\obj\Debug\WKS1_QLDT.csproj.AssemblyReference.cache
+C:\Users\Phat\Desktop\C# Winform\WKS1_QLDT\WKS1_QLDT\obj\Debug\Form1.exe
+C:\Users\Phat\Desktop\C# Winform\WKS1_QLDT\WKS1_QLDT\obj\Debug\Form1.pdb
